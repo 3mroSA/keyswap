@@ -1,6 +1,7 @@
 # KeySwap
 A simple tool in C# that instantly converts selected text between keyboard layout
 This is my first program made in c#
+also, just to be transparent i did use ai
 
 ## Usage
 Have you ever been typing while looking at your keyboard and not noticing that you were typing in a different language?
